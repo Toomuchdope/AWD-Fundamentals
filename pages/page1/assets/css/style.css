@@ -328,7 +328,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #333;
+    background-color:darkslategrey;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease, color 0.3s ease;
@@ -365,6 +365,7 @@ body {
 .feature5 .text-content {
     max-width: 800px;
 }
+
 
 /* Footer Section styles */
 .simple-footer {
